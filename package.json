@@ -1,0 +1,12 @@
+{
+  "name": "wheretowork",
+  "description": "gottafindajobandgotoworknow.....",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/goingtoworknow"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
